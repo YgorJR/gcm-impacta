@@ -1,4 +1,4 @@
-# IOS
+# iOS
 
 iOS 10 introduz diversas melhorias no sistema, incluindo a expansão do uso do 3D Touch,
 tela de bloqueio remodelada e suporte para widgets. O aplicativo Mensagens recebeu atualizações para a comunicação de diversas 
